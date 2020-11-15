@@ -7,3 +7,5 @@ Product management draws from a number of disciplines; finance, economics, marke
 
 Simply put the product manager will lead the creation, enhancement or support of a product by working with many people in many functions in a business.
 
+Author
+Zuveir Jameer
